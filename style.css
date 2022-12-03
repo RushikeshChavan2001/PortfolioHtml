@@ -89,6 +89,7 @@ ul li a {
    
     font-family: Arial, Helvetica, sans-serif;
     transition: 0.4s ease;
+     list-style: none;
 }
 
 ul li a:hover {
